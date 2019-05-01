@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Jonathon Mitchell"
-excerpt: "Understanding and quantifying shark depredation in recreational fisheries of north-west Western Australia"
-categories: phd-students
+excerpt: "Understanding and quantifying shark depredation in recreational fisheries of north-west Western Australia (2019)"
+categories: phd-alumni
 tags: [phd-students]
 image:
   feature: 
