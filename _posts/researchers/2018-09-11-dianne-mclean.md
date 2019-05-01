@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Dianne McLean"
-categories: researchers
-excerpt: "Research Fellow"
+categories: adjuncts
+excerpt: "  "
 tags: [researcher]
 image:
   feature: 
