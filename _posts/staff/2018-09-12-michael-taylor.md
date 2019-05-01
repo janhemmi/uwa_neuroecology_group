@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Michael Taylor"
-categories: staff
+categories: staff-alumni
 excerpt: "Research Assistant"
 tags: [staff]
 image:
