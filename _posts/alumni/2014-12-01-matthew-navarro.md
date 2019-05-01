@@ -3,7 +3,7 @@ layout: article
 title: "Matthew Navarro"
 categories: phd-alumni
 tags: 
-excerpt: "Cost-benefit analysis of no-take areas"
+excerpt: "Cost-benefit analysis of no-take areas (2019)"
 image:
   feature: 
   teaser: square-matt-navarro-profile.png
