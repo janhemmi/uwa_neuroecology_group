@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Matthew Navarro"
-categories: phd-students
+categories: researchers
 tags: [phd-students]
-excerpt: "Cost-benefit analysis of no-take areas"
+excerpt: "Postdoctoral researcher"
 image:
   feature: 
   teaser: square-matt-navarro-profile.png
