@@ -6,12 +6,12 @@ tags: [researchers]
 excerpt: "Postdoctoral researcher"
 image:
   feature: 
-  teaser: square-harriet-davies-profile.png
-  thumb: square-harriet-davies-profile.png
+  teaser: square-harriet-davies-profile.jpg
+  thumb: square-harriet-davies-profile.jpg
 ---
 
-## 
-<img src='/images/square-harriet-davies-profile.png' align='right' width="350" hspace="20" vspace="10">
+## Project
+<img src='/images/square-harriet-davies-profile.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## Contact
 <img src='/images/icons/building-regular.svg' width="15px"> School of Biological Sciences (M470)<br>
