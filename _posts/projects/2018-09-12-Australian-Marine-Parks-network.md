@@ -5,8 +5,8 @@ categories: projects
 tags: [projects]
 image:
   feature: 
-  teaser: australian-marine-parks.jpg
-  thumb: australian-marine-parks.jpg
+  teaser: square-australian-marine-parks.jpg
+  thumb: square-australian-marine-parks.jpg
 ---
 <img src='/images/australian-marine-parks.jpg' align='right' width="350" hspace="20" vspace="10">
 
