@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: projects
-title: "Potential Student Projects"
-excerpt: " <br> <br>"
+title: "Potential Research Projects"
+excerpt: "For PhD, Masters or Honours"
 image:
   feature: 20101020_099.jpg
 ---
