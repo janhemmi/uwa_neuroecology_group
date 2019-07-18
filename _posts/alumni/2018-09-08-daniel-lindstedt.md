@@ -3,7 +3,7 @@ layout: article
 title: "Daniel Lindstedt"
 categories: masters-alumni
 tags: [masters-alumni]
-excerpt: "Catchability and behaviour of Western Rock Lobster"
+excerpt: "Catchability and behaviour of Western Rock Lobster (2018)"
 image:
   feature: 
   teaser: square-daniel-lindstedt-profile.png
