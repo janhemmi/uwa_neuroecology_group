@@ -4,7 +4,7 @@ title: "Ash Miller"
 categories: masters-alumni
 tags: [masters-students]
 excerpt: "Improving estimates of natural mortality and growth rate of juvenile western rock lobsters <i>(Panulirus cygnus)</i> in Dongara, Western Australia (2019)"
-permalink: /students/ashlyn-miller
+permalink: students/ashlyn-miller
 image:
   feature: 
   teaser: square-ashlyn-miller-profile.png
