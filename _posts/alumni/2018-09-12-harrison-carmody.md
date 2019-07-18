@@ -3,7 +3,7 @@ layout: article
 title: "Harrison Carmody"
 categories: masters-alumni
 tags: [masters-alumni]
-excerpt: "Understanding the factors influencing shark depredation in Western Australia’s Mackerel Managed Fishery"
+excerpt: "Understanding the factors influencing shark depredation in Western Australia’s Mackerel Managed Fishery (2019)"
 image:
   feature: 
   teaser: square-harrison-carmody-profile.png
