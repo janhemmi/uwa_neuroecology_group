@@ -3,7 +3,7 @@ layout: article
 title: "Charlotte Mara-Petersen"
 categories: masters-alumni
 tags: [masters-students]
-excerpt: "Shark Depredation (2019)"
+excerpt: "Shark depredation: social-ecological systems framework reveals evidence of change in shark behaviour and fisher adaptation (2019)"
 permalink: students/charlotte-mara-petersen
 image:
   feature: 
