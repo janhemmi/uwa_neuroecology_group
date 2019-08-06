@@ -15,7 +15,7 @@ image:
   
 <div class="tile">
   <h2 class="post-title">Expertise</h2>
-  <p class="post-excerpt">We have world leading expertise in stereo-video methods to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour; with on-going collaboratorations around Australia and internationally across socio-economics, oceanography and statistical theory.<br><br>See our <a href="https://uwamegfisheries.github.io/research/"> Research</a> page for more details.</p>
+  <p class="post-excerpt">We have world leading expertise in stereo-video methods to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour; with on-going collaboratorations around Australia and internationally across socio-economics, oceanography and statistical theory.<br><br>See our <a href="https://uwamegfisheries.github.io/research"> Research</a> page for more details.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
