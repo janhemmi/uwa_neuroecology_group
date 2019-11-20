@@ -38,15 +38,15 @@ image:
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="https://www.marineconservation.org.au/" target="_blank"><img src='/images/logos/logo_AMCS1.png' width="100%"></a></p>
 </div><!-- /.tile -->
-  
-<div class="tile">
-  <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="https://www.ands.org.au/" target="_blank"><img src='/images/logos/logo_ANDS.png' width="100%"></a></p>
-</div><!-- /.tile -->
-  
+ 
 <div class="tile">
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="https://portal.aodn.org.au/" target="_blank"><img src='/images/logos/logo_AODN2.png' width="100%"></a></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="https://ardc.edu.au/" target="_blank"><img src='/images/logos/logo_ARDC.png' width="100%"></a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -63,11 +63,6 @@ image:
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="https://www.thejockcloughmarinefoundation.com/" target="_blank"><img src='/images/logos/logo_JCMF.png' width="100%"></a></p>
 </div><!-- /.tiles -->
-
-<div class="tile">
-  <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="https://nectar.org.au/" target="_blank"><img src='/images/logos/logo_N.png' width="100%"></a></p>
-</div><!-- /.tile -->
   
 <div class="tile">
   <h2 class="post-title"></h2>
@@ -83,11 +78,6 @@ image:
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="http://www.environment.gov.au/science/nesp" target="_blank"><img src='/images/logos/logo_PA1.png' width="100%"></a></p>
 </div><!-- /.tiles -->
-
-<div class="tile">
-  <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="https://www.rds.edu.au/" target="_blank"><img src='/images/logos/logo_RDS.png' width="100%"></a></p>
-</div><!-- /.tile -->
   
 <div class="tile">
   <h2 class="post-title"></h2>
