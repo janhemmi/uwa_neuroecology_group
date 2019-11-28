@@ -6,7 +6,7 @@ excerpt: " <br> <br>"
 image:
   feature: 20100425_039.jpg
 ---
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyVFfzfokaCSDqPi6lNDvPVpCvSmqTusbFEi8BTDBxFlax-4TkQLXIzovC0uF59syXBTvfz3ebf8Cd/pubhtml?gid=1481890826&single=true" class="btn--info">View Potential Honours, Masters and PhD research projects</a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyVFfzfokaCSDqPi6lNDvPVpCvSmqTusbFEi8BTDBxFlax-4TkQLXIzovC0uF59syXBTvfz3ebf8Cd/pubhtml?gid=1481890826&single=true" class="btn--info">View Potential Honours, Masters and PhD research projects here</a>
 
 <h2 class="post-title">PhD Candidates</h2>
 <div class="tiles">
