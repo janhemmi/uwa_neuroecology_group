@@ -29,6 +29,10 @@ image:
 </div><!-- /.tiles -->
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyVFfzfokaCSDqPi6lNDvPVpCvSmqTusbFEi8BTDBxFlax-4TkQLXIzovC0uF59syXBTvfz3ebf8Cd/pubhtml?gid=1481890826&single=true" class="btn--info">Potential student projects</a>
+
+
 <div>
 <h4>We receive funding from a broad range of partners:</h4>
 </div>
