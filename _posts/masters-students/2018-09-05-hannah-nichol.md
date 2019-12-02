@@ -7,11 +7,11 @@ excerpt: "Optimising methodologies for monitoring change in benthic assemblages 
 permalink: /students/hannah-nichol
 image:
   feature: 
-  teaser: square-hannah-nichol-profile.png
-  thumb: square-hannah-nichol-profile.png
+  teaser: square-hannah-nichol-profile.jpg
+  thumb: square-hannah-nichol-profile.jpg
 ---
 ## Optimising methodologies for monitoring change in benthic assemblages in Geographe Bay, Western Australia
-<img src='/images/square-hannah-nichol-profile.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-hannah-nichol-profile.jpg' align='right' width="350" hspace="20" vspace="10">
 Accurate, precise and cost-effective methods for monitoring benthic assemblages are essential for conservation and ecosystem-based fisheries management programs to reliably detect, track and respond to changes in the marine environment. Stressors such as climate change, physical habitat disturbance, pollution, and overfishing have been observed to impact the composition and density of marine benthic assemblages. Numerous benthic monitoring methods have been developed to detect these changes, however, acquiring detailed information and maintaining temporal monitoring can be time and resource intensive. Therefore, my research aims to investigate the optimal methodology or methodologies to monitor change in benthic assemblages. This will be achieved by comparing data from Marine Parks within Geographe Bay, as extensive historical monitoring, using multiple methods, has been conducted in State and Commonwealth waters. The study will form a template to guide future research on how to use existing information, from a range of methods, to inform the selection of cost-effective monitoring to detect changes in benthic assemblages, which will ultimately aid in tracking and responding to environmental impacts from stressors. 
 
 ## About Me
