@@ -1,8 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "UWA Marine Ecology Group
-Fisheries Research"
+title: "hemmi_lab under construction"
 excerpt: " <br> <br>"
 image:
   feature: 20150613_074.jpg
