@@ -4,7 +4,7 @@ permalink: /
 title: "hemmi_lab under construction"
 excerpt: " <br> <br>"
 image:
-  feature: 20150613_074.jpg
+  feature: 20150505_various_0005_downsampled.jpg
 ---
 <div class="tiles">
 <div class="tile">
