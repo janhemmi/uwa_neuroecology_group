@@ -39,6 +39,6 @@ image:
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="https://www.arc.gov.au//" target="_blank"><img src='/images/logos/ARC_logo.png' width="50%"></a></p>
+  <p class="post-excerpt"><a href="https://www.arc.gov.au//" target="_blank"><img src='images/logos/ARC_logo.png' width="50%"></a></p>
 </div><!-- /.tile -->
  
