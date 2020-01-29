@@ -9,7 +9,7 @@ image:
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title">Our Aim</h2>
-  <p class="post-excerpt">Our aim is to produce information for the public and decision makers to understand how marine ecosystems can be managed for the benefit of all.<br><br>Our multidisciplinary group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society.</p>
+  <p class="post-excerpt">Our aim is to understand how animals see the world. <br><br>Our multidisciplinary group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society.</p>
 </div><!-- /.tile -->
   
 <div class="tile">
