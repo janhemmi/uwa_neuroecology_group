@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: "Research"
-  url: research
+  url: /research
   excerpt: "Current and past research projects"
   image: 5x8_BRUV.jpg
 - title: "Researchers"
