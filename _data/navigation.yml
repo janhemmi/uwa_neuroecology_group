@@ -1,23 +1,23 @@
 # Site navigation links
 
 - title: "Research"
-  url: research
+  url: /research
   excerpt: "Current and past research projects"
   image: 5x8_BRUV.jpg
 - title: "Researchers"
-  url: researchers
+  url: /researchers
   excerpt: "Current research staff"
   image: 5x8_Moorea.jpg
 - title: "Students"
-  url: students
+  url: /students
   excerpt: "Current PhD candidates and postgraduate students"
   image: 5x8_Jon.png
 - title: "Alumni"
-  url: alumni
+  url: /alumni
   excerpt: "Past members"
   image: 5x8_Julia.png
 - title: "Adjuncts"
-  url: adjuncts
+  url: /adjuncts
   excerpt: "Current Adjuncts"
   image: 5x8_Todd.jpg
 #- title: "Contact"
