@@ -25,8 +25,8 @@ image:
 <div class="tile">
   <h2 class="post-title"> </h2>
   <p class="post-excerpt"><a href="http://www.oceans.uwa.edu.au/collaborations/iomrc" target="_blank"><img src='images/IOMRC3.PNG' width="100%"></a></p>
+</div><!-- /.tile -->
 </div><!-- /.tiles -->
-</div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyVFfzfokaCSDqPi6lNDvPVpCvSmqTusbFEi8BTDBxFlax-4TkQLXIzovC0uF59syXBTvfz3ebf8Cd/pubhtml?gid=1481890826&single=true" class="btn--info">Potential student projects</a>
@@ -42,10 +42,10 @@ image:
   <p class="post-excerpt"><a href="https://www.arc.gov.au//" target="_blank"><img src='images/logos/ARC_logo.png' width="100%"></a></p>
 </div><!-- /.tile -->
  
-
 <div class="tile">
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="http://www.frdc.com.au/" target="_blank"><img src='/images/logos/logo_FRDC1.png'  width="100%"></a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
+test
