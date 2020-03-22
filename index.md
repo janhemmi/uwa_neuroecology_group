@@ -33,7 +33,7 @@ image:
 
 
 <div>
-<h4>We receive funding from a broad range of partners:</h4>
+<h4>Our funding partners:</h4>
 </div>
 
 <div class="tiles">
@@ -42,3 +42,12 @@ image:
   <p class="post-excerpt"><a href="https://www.arc.gov.au//" target="_blank"><img src='images/logos/ARC_logo.png' width="100%"></a></p>
 </div><!-- /.tile -->
  
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="http://www.frdc.com.au/" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="100%"></a></p>
+</div><!-- /.tiles -->
+
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="http://www.frdc.com.au/" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="100%"></a></p>
+</div><!-- /.tiles -->
