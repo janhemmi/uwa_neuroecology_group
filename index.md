@@ -9,7 +9,7 @@ image:
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title">Our Aim</h2>
-  <p class="post-excerpt">Our aim is to understand visual information processing and how animals see their world. <br><br>Our multidisciplinary group aims to understand and reconstruct how small eyes and small brains are able to reliably and efficiently process vast amounts of visual information. </p>
+  <p class="post-excerpt">Our aim is to understand visual information processing and how animals see their world.<br>Our multidisciplinary group aims to understand and reconstruct how small eyes and small brains are able to reliably and efficiently process vast amounts of visual information. </p>
 </div><!-- /.tile -->
   
 <div class="tile">
@@ -46,4 +46,5 @@ image:
 <div class="tile">
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="http://www.frdc.com.au/" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="100%"></a></p>
+</div><!-- /.tile -->
 </div><!-- /.tiles -->
