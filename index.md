@@ -9,17 +9,17 @@ image:
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title">Our Aim</h2>
-  <p class="post-excerpt">Our aim is to understand how animals see the world. <br><br>Our multidisciplinary group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society.</p>
+  <p class="post-excerpt">Our aim is to understand visual information processing and how animals see their world. <br><br>Our multidisciplinary group aims to understand and reconstruct how small eyes and small brains are able to reliably and efficiently process vast amounts of visual information. </p>
 </div><!-- /.tile -->
   
 <div class="tile">
   <h2 class="post-title">Expertise</h2>
-  <p class="post-excerpt">We have world leading expertise in stereo-video methods to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour; with on-going collaboratorations around Australia and internationally across socio-economics, oceanography and statistical theory.<br><br>See our <a href="https://uwamegfisheries.github.io/research"> Research</a> page for more details.</p>
+  <p class="post-excerpt">We have state of the art physiological setups, that allow us to non-invasively measure all aspects of what animals can see: Colour, Resolution, Temporal and Contrast Sensitivity, and Polarisation. We also have world leading expertise in video analysis, analysis of 3D image data. In addition, we combine engineering approaches with a wide range of bevavioural, anatomical and computational analysis techniques.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Location</h2>
-  <p class="post-excerpt">We are based at the University of Western Australia. Our research team are part of the <a href="http://www.science.uwa.edu.au/schools/biological-sciences" target="_blank"> School of Biological Sciences</a> and the <a href="http://handbooks.uwa.edu.au/units?section=unitcode&faccode=60&deptcode=01470" target="_blank"> Oceans Graduate School</a>, and we are members of the <a href="http://www.oceans.uwa.edu.au" target="_blank"> Oceans Institute</a>.<br><br>We are located in the newly established <a href="http://www.oceans.uwa.edu.au/collaborations/iomrc" target="_blank"> Indian Ocean Marine Research Centre</a> on the UWA campus.</p>
+  <p class="post-excerpt">We are based at the University of Western Australia. Our research team is part of the <a href="http://www.science.uwa.edu.au/schools/biological-sciences" target="_blank"> School of Biological Sciences</a> and the <a  <a href="http://www.oceans.uwa.edu.au" target="_blank"> UWA Oceans Institute</a>.<br><br>We are located in the Zoology building and the newly established <a href="http://www.oceans.uwa.edu.au/collaborations/iomrc" target="_blank"> Indian Ocean Marine Research Centre</a> on the UWA campus.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -42,10 +42,6 @@ image:
   <p class="post-excerpt"><a href="https://www.arc.gov.au//" target="_blank"><img src='images/logos/ARC_logo.png' width="100%"></a></p>
 </div><!-- /.tile -->
  
-<div class="tile">
-  <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="http://www.frdc.com.au/" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="100%"></a></p>
-</div><!-- /.tiles -->
 
 <div class="tile">
   <h2 class="post-title"></h2>
