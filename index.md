@@ -39,12 +39,32 @@ image:
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="https://www.arc.gov.au//" target="_blank"><img src='images/logos/ARC_logo.png' width="100%"></a></p>
+  <p class="post-excerpt"><a href="https://www.arc.gov.au/" target="_blank"><img src='images/logos/ARC_logo.png' width="100%"></a></p>
+</div><!-- /.tile -->
+ 
+ <div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="https://www.marineconservation.org.au/" target="_blank"><img src='/images/logos/logo_AMCS1.png' width="100%"></a></p>
 </div><!-- /.tile -->
  
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="http://www.frdc.com.au//" target="_blank"><img src='images/logos/logo_FRDC1.png'  width="100%"> </a></p>
+  <p class="post-excerpt"><a href="https://portal.aodn.org.au/" target="_blank"><img src='/images/logos/logo_AODN2.png' width="100%"></a></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="https://ardc.edu.au/" target="_blank"><img src='/images/logos/logo_ARDC.png' width="100%"></a></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="http://www.frdc.com.au/" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="100%"></a></p>
+</div><!-- /.tiles -->
+
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="http://www.frdc.com.au/" target="_blank"><img src='images/logos/logo_FRDC1.png'  width="100%"> </a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
