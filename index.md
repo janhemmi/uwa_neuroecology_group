@@ -47,4 +47,5 @@ image:
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="http://www.frdc.com.au/" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="100%"></a></p>
 </div><!-- /.tile -->
-</div><!-- /.tiles -->
+
+</div>
