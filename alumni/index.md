@@ -2,7 +2,7 @@
 layout: home
 permalink: alumni
 title: "Alumni"
-excerpt: "Past members of the Marine Ecology Group"
+excerpt: "Past members of the lab"
 image:
   feature: 20151115_046.jpg
 ---
