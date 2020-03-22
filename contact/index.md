@@ -9,22 +9,18 @@ image:
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title">Address</h2>
-  <p class="post-excerpt"><img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre<br>The University of Western Australia (M092)<br>64 Fairway, Crawley WA 6009</p>
+  <p class="post-excerpt"><img src='/images/icons/building-regular.svg' width="15px"> School of Biological Sciences<br>The University of Western Australia (M092)<br>35 Stirling Hwy, Crawley WA 6009</p>
 </div><!-- /.tile -->
   
 <div class="tile">
-  <h2 class="post-title">Facebook</h2>
-  <p class="post-excerpt"><a href="https://www.facebook.com/marineecologygroupUWA/?ref=br_rs" target="_blank"><img src='/images/facebook-logo_bw.jpg' width="82" height="86"></a></p>
+  <h2 class="post-title">Twitter</h2>
+  <p class="post-excerpt"><a href="https://twitter.com/hemmi_lab" target="_blank"><img src='/images/twitter.png' width="82" height="86"></a></p>
 </div><!-- /.tile -->
   
-<div class="tile">
-  <h2 class="post-title">Instagram</h2>
-  <p class="post-excerpt"><a href="https://www.instagram.com/meg_fish_lab/" target="_blank"><img src='/images/Instagram-logo_bw.png' width="82" height="86"></a></p>
-</div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">GitHub</h2>
-  <p class="post-excerpt"><a href="https://github.com/UWAMEGFisheries" target="_blank"><img src='/images/github-logo_bw.svg' width="82" height="86"></a></p>
+  <p class="post-excerpt"><a href="https://github.com/janhemmi" target="_blank"><img src='/images/github-logo_bw.svg' width="82" height="86"></a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
