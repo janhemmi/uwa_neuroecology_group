@@ -14,13 +14,13 @@ image:
   
 <div class="tile">
   <h2 class="post-title">Twitter</h2>
-  <p class="post-excerpt"><a href="https://twitter.com/hemmi_lab" target="_blank"><img src='/images/icons/Twitter_Social_Icon_Circle_Color.svg' width="82" height="86"></a></p>
+  <p class="post-excerpt"><a href="https://twitter.com/hemmi_lab" target="_blank"><img src='images/icons/Twitter_Social_Icon_Circle_Color.svg' width="82" height="86"></a></p>
 </div><!-- /.tile -->
   
 
 <div class="tile">
   <h2 class="post-title">GitHub</h2>
-  <p class="post-excerpt"><a href="https://github.com/janhemmi" target="_blank"><img src='/images/github-logo_bw.svg' width="82" height="86"></a></p>
+  <p class="post-excerpt"><a href="https://github.com/janhemmi" target="_blank"><img src='images/github-logo_bw.svg' width="82" height="86"></a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
