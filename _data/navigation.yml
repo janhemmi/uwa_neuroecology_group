@@ -3,24 +3,24 @@
 - title: "Research"
   url: /research
   excerpt: "Current and past research projects"
-  image: 5x8_BRUV.jpg
+  image: nav_research.jpg
 - title: "Researchers"
   url: /researchers
-  excerpt: "Current research staff"
-  image: 5x8_Moorea.jpg
-- title: "Students"
-  url: /students
-  excerpt: "Current PhD candidates and postgraduate students"
-  image: 5x8_Jon.png
+  excerpt: "Staff and students"
+  image: nav_staff.jpg
+#- title: "Students"
+#  url: /students
+#  excerpt: "Current PhD candidates and postgraduate students"
+#  image: 5x8_Jon.png
 - title: "Alumni"
   url: /alumni
   excerpt: "Past members"
-  image: 5x8_Julia.png
-- title: "Adjuncts"
-  url: /adjuncts
-  excerpt: "Current Adjuncts"
-  image: 5x8_Todd.jpg
+  image: nav_alumni.png
+#- title: "Adjuncts"
+#  url: /adjuncts
+#  excerpt: "Current Adjuncts"
+#  image: 5x8_Todd.jpg
 - title: "Contact"
-  url: contact
+  url: /contact
   excerpt: "Get in touch"
   image: 5x8_Damsel.jpg
