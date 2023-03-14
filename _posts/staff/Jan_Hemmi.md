@@ -6,11 +6,11 @@ tags: [staff]
 excerpt: "Associate Professor "
 image:
   feature: 
-  teaser: Jan_Hemmi.jpg
-  thumb: Jan_Hemmi.jpg
+  teaser: Jan_Hemmi.png
+  thumb: Jan_Hemmi.png
 ---
 ## Role
-<img src='/images/Jan_Hemmi.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/Jan_Hemmi.png' align='right' width="350" hspace="20" vspace="10">
 Group leader
 
 ## About me
