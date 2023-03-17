@@ -85,8 +85,6 @@ DEPENDENCIES
   jekyll-feed
   jekyll-gist
   jekyll-sitemap
-  rexml (~> 3.2)
-  webrick (~> 1.8)
 
 BUNDLED WITH
    2.4.8
