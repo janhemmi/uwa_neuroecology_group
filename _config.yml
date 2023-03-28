@@ -10,6 +10,7 @@ feed:
   path: atom.xml
 
 # Jekyll configuration
+# 
 
 sass:
   sass_dir: _sass
