@@ -7,7 +7,7 @@
 - title: "Researchers"
   url: /researchers
   excerpt: "Staff and students"
-  image: nav_staff.jpg
+  image: /nav_staff.jpg
 #- title: "Students"
 #  url: /students
 #  excerpt: "Current PhD candidates and postgraduate students"
@@ -15,7 +15,7 @@
 - title: "Alumni"
   url: /alumni
   excerpt: "Past members"
-  image: nav_alumni.png
+  image: reef.jpg
 #- title: "Adjuncts"
 #  url: /adjuncts
 #  excerpt: "Current Adjuncts"
