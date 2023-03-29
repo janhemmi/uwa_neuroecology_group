@@ -12,7 +12,9 @@ image:
 ## Research
 
 <img class="philprofile" src='/images/Jan_Hemmi_5_4.png' align='right' width="350" hspace="20" vspace="10">
-
+wertwet
+<img class="philprofile" src= "{{'/images/Jan_Hemmi_5_4.png' | prepend: site.baseurl }}"  align='right' width="350" hspace="20" vspace="10">
+tewrtwert
 I am a post-doctoral marine spatial ecologist. My research has been focused on scaling up our observations and using new statistical approaches to overcome challenges for generalising patterns in complex and dynamic marine ecosystems. I generally work on problems that have direct application to environmental management, with hope that we can develop and implement strategies to intercept the ongoing decline of coastal habitats. I graduated with a BSc at the University of Adelaide, completed my doctorate at UNSW Sydney, and have subsequently held post-doctoral positions at UNSW and at the National University of Singapore.
 
 ## Contact
