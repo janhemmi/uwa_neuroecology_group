@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "hemmi_lab under construction"
+title: "UWA Neuroecology Group"
 excerpt: " <br> <br>"
 image:
   feature: 20150505_various_0005_downsampled.jpg
