@@ -23,7 +23,7 @@
 	@include media($large) {
 		@include span-columns(4);
 	}
-	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
+	padding: (.15 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
 	text-decoration: none;
 	color: $black;
@@ -85,16 +85,22 @@
 
 .top-menu {
 	display: none;
-	position: relative;
-	@include media($medium) {
+	ul {
+		position: absolute;
+		left: 10;
+	}
+	@include media($small) {
 		@include span-columns(12);
 	}
-	@include media($large) {
-		@include span-columns(7);
-		ul {
-			position: absolute;
-			right: 0;
-		}
+	@include media($medium) {
+@include span-columns(22);	
+		// 	ul {
+		// 	position: relative;
+		// 	right: 20;
+		// }
+	}
+	@include media($medium) {
+		@include span-columns(2);	
 	}
 	.home,
 	.sub-menu-item {
