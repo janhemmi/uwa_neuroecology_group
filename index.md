@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Location</h2>
-  <p class="post-excerpt">We are based at the University of Western Australia. Our research team is part of the <a href="http://www.science.uwa.edu.au/schools/biological-sciences" target="_blank"> School of Biological Sciences</a> and the <a  <a href="http://www.oceans.uwa.edu.au" target="_blank"> UWA Oceans Institute</a>.<br><br>We are located in the Zoology building and the newly established <a href="http://www.oceans.uwa.edu.au/collaborations/iomrc" target="_blank"> Indian Ocean Marine Research Centre</a> on the UWA campus.</p>
+  <p class="post-excerpt">We are based at the University of Western Australia. Our research team is part of the <a href="http://www.science.uwa.edu.au/schools/biological-sciences" target="_blank"> School of Biological Sciences</a> and the <a  <a href="http://www.oceans.uwa.edu.au" target="_blank"> UWA Oceans Institute</a>.<br><br>We are located in the Zoology building on the Crawley campus</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -29,7 +29,8 @@ image:
 </div><!-- /.tiles -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyVFfzfokaCSDqPi6lNDvPVpCvSmqTusbFEi8BTDBxFlax-4TkQLXIzovC0uF59syXBTvfz3ebf8Cd/pubhtml?gid=1481890826&single=true" class="btn--info">Potential student projects</a>
+## a link to a google spreadsheet
+<a href="https://docs.google.com/spreadsheets/d/e/" class="btn--info">Potential student projects</a>
 
 
 <div>
